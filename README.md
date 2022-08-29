@@ -1,4 +1,5 @@
-Welcome to your new dbt project!
+
+This is tutorial project for learning dbt with Snowflake!
 
 ### Using the starter project
 
